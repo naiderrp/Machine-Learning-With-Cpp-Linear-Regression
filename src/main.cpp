@@ -1,3 +1,4 @@
+#include <iostream>
 #include "linear_regression.hpp"
 
 int main() {
